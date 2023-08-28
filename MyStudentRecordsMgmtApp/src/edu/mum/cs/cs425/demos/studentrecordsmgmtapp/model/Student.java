@@ -1,4 +1,4 @@
-package model;
+package edu.mum.cs.cs425.demos.studentrecordsmgmtapp.model;
 
 import java.time.LocalDate;
 import java.util.Calendar;

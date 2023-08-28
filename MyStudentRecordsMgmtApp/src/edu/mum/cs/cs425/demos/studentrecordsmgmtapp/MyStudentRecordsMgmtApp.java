@@ -1,7 +1,12 @@
-import model.Student;
+package edu.mum.cs.cs425.demos.studentrecordsmgmtapp;
+
+import edu.mum.cs.cs425.demos.studentrecordsmgmtapp.model.Student;
 
 import java.text.MessageFormat;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Date;
+import java.util.List;
 import java.util.stream.Collectors;
 
 public class MyStudentRecordsMgmtApp {
